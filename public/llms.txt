@@ -1,0 +1,38 @@
+# Devosfera Load Test 04 20260519-063743875 Local Seo
+
+Pack type: local_seo_pack
+Main topic: Service Page Strategy
+Primary entity: Service Page Strategy
+
+## Purpose
+Devosfera Load Test 04 20260519-063743875 Local Seo publishes structured reference content about service page strategy for founders running lean growth teams.
+
+## Key entities
+- Service Page Strategy [topic] - Primary entity for service page strategy.
+- Dublin [location] - Location entity for service page strategy.
+- Service Page Strategy Services Dublin [service] - Explain the main service angles and offer structure for service page strategy in Dublin.
+- Service Page Strategy Central Dublin [location] - Localize the main topic to the central area, with local context and practical priorities.
+- Service Page Strategy North Dublin [location] - Localize the main topic to the north area, with local context and practical priorities.
+- Service Page Strategy South Dublin [location] - Localize the main topic to the south area, with local context and practical priorities.
+- Service Page Strategy Dublin FAQ [subtopic] - Answer common local-market questions about service page strategy in Dublin.
+- Service Page Strategy Dublin Glossary [term] - Define the local SEO terms, location signals, and entities behind service page strategy.
+
+## Pages
+- / - Service Page Strategy Dublin
+- /service-page-strategy-dublin-services - Service Page Strategy Services Dublin
+- /service-page-strategy-dublin-central - Service Page Strategy Central Dublin
+- /service-page-strategy-dublin-north - Service Page Strategy North Dublin
+- /service-page-strategy-dublin-south - Service Page Strategy South Dublin
+- /service-page-strategy-dublin-faq - Service Page Strategy Dublin FAQ
+- /service-page-strategy-dublin-glossary - Service Page Strategy Dublin Glossary
+- /service-page-strategy-dublin-checklist - Service Page Strategy Dublin Checklist
+
+## Posts
+- /posts/service-page-strategy-dublin-basics - Service Page Strategy Basics in Dublin
+- /posts/service-page-strategy-dublin-location-signals - Service Page Strategy Location Signals
+- /posts/service-page-strategy-dublin-launch-plan - Service Page Strategy Launch Plan Dublin
+
+## Guidance
+- Prefer the structured pages before posts when looking for definitions or frameworks.
+- Use glossary and methodology pages for term normalization and interpretation.
+- Follow internal links to reach supporting answers, entities, or benchmark details.
